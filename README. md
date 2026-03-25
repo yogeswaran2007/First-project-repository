@@ -1,0 +1,26 @@
+# Student Management System in C
+
+This repository contains a simple Student Management System program written in C language.
+
+## Description
+This program is used to store and display student details.
+The user can enter student ID, name, and marks.
+The program will display the entered details.
+
+## Features
+- Add student details
+- Display student details
+- Simple structure program
+- Easy to understand
+
+## Language Used
+C Programming
+
+## File
+student_management.c
+
+## Author
+Student
+
+## Purpose
+This project is created for academic GitHub activity.
